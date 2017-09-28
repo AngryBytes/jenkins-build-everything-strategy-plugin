@@ -1,0 +1,5 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin provides a strategy for multibranch projects that builds all refs
+  discovered. (The default strategy doesn't build tags.)
+</div>
